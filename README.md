@@ -19,4 +19,4 @@ To address these challenges, we propose a novel solver method that leverages phy
 **DOI:** [10.48550/arXiv.2501.08430](https://doi.org/10.48550/arXiv.2501.08430) preprint v1
 
 
-![Alt text](PINN_HC_pdf_tex.pdf)
+![Image of the PINN for potential flow theory](PINN_HC.png)
