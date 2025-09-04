@@ -6,7 +6,7 @@ This repository contains code related to the paper "Physics-informed neural netw
 
 [10.48550/arXiv.2501.08430](https://doi.org/10.48550/arXiv.2501.08430) preprint v1
 
-[Volltext](https://doi.org/10.1103/ytyy-pvys)
+[10.1103/ytyy-pvys](https://journals.aps.org/prfluids/abstract/10.1103/ytyy-pvys) published version
 
 
 **Key Features:**
