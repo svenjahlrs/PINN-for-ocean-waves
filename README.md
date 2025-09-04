@@ -3,6 +3,7 @@
 This repository contains code related to the paper "Physics-informed neural networks for phase-resolved data assimilation and prediction of nonlinear ocean waves" by Ehlers et al. (2025). The paper explores the use of Physics-Informed Neural Networks (PINNs) to solve the potential flow equations for modeling nonlinear ocean waves, enabling data assimilation and prediction from sparse measurements.
 
 **DOI:** 
+
 [10.48550/arXiv.2501.08430](https://doi.org/10.48550/arXiv.2501.08430) preprint v1
 
 [10.1103/ytyy-pvys](https://doi.org/10.1103/ytyy-pvys) published version
